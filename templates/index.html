@@ -5,6 +5,10 @@
   <div id="article_title">
     <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
   </div>
+
+ <div id="article_meta_index"><time datetime="{{ article.date.isoformat() }}" pubdate data-updated="true"> {{ article.locale_date }} by {{ article.author }}</time>
+  </div>
+
   <div id="article_text">
     {{ article.summary }}
   </div>

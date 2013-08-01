@@ -1,4 +1,4 @@
-# pelican-geert
+# PELICAN-GEERT
 
 Pelican-geert is a responsive theme for [Pelican](http://getpelican.com). It is a fork of [pelican-svbhack](https://github.com/giulivo/pelican-svbhack). 
 
